@@ -22,8 +22,24 @@ maglev有如下特点：
 
 
 
-总结：
+## 总结：
 
 1、首先哈希表的数量m 必须是素数
 
 2、可以与之前的 consistent 项目对照着看
+
+
+
+## 参考资料：
+
+https://manjusaka.itscoder.com/posts/2020/05/23/a-simple-introduction-about-maglev/
+
+https://tech.meituan.com/2017/01/05/mgw.html
+
+https://www.youtube.com/watch?v=_GRM1Ij_3t0
+
+https://www.youtube.com/watch?v=jk6oiBJxcaA
+
+https://writings.sh/post/consistent-hashing-algorithms-part-4-maglev-consistent-hash
+
+https://www.jianshu.com/p/9a9b269e68f7
